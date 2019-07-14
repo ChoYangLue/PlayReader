@@ -1,0 +1,4 @@
+#Sun Jul 14 18:50:02 JST 2019
+base.0=D\:\\Android\\PlayReader\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
